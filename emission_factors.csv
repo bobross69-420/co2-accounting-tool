@@ -1,0 +1,12 @@
+category,factor_kg_co2_per_unit
+laptop,250.0
+macbook,250.0
+smartphone,80.0
+iphone,80.0
+monitor,150.0
+coffee,5.0
+server,40.0
+paper,2.5
+flight,0.15
+taxi,0.20
+uber,0.20
