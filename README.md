@@ -1,9 +1,7 @@
 CO2 Accounting Tool - Group Project
 
 Authors: Peter Bauschlicher & Carl Frédéric Beckmann
-
 Date: 19.12.2025
-
 Course: Skills: Programming - Introduction Level (HSG)
 
 1. Project Overview
